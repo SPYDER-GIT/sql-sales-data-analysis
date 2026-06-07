@@ -29,6 +29,8 @@ Dataset: Superstore Sales Dataset
 
 Source: Kaggle
 
+Link: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
+
 Dataset Size:
 
 * 9,800 records
