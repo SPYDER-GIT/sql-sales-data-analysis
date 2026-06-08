@@ -475,9 +475,6 @@ FROM daily_sales;
 ### Top Cities by Revenue
 ![Top Cities](screenshots/top_cities.png)
 
-### Window Function Analysis
-![Window Function Analysis](screenshots/window_function_analysis.png)
-
 ---
 
 ## Key Insights
