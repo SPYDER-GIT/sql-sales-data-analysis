@@ -6,6 +6,15 @@ This project analyzes retail sales data from the Superstore dataset using MySQL.
 
 The analysis was performed using SQL queries involving aggregation functions, grouping, Common Table Expressions (CTEs), and window functions.
 
+## Project Highlights
+
+- Analyzed 9,800 retail sales records using MySQL
+- Developed 16 business-focused SQL queries
+- Applied Aggregations, GROUP BY, CTEs, and Window Functions
+- Identified top-performing customers, regions, and product categories
+- Generated business insights from real-world sales data
+- Created a portfolio-ready SQL analytics project
+
 ---
 
 ## Objectives
@@ -443,6 +452,31 @@ SELECT
     ) AS cumulative_revenue
 FROM daily_sales;
 ```
+
+---
+
+## Sample Results
+
+### Total Revenue
+![Total Revenue](screenshots/total_revenue.png)
+
+### Top Customers by Revenue
+![Top Customers](screenshots/top_customers.png)
+
+### Revenue by Region
+![Revenue by Region](screenshots/revenue_by_region.png)
+
+### Revenue by State
+![Revenue by State](screenshots/revenue_by_state.png)
+
+### Category Performance
+![Category Performance](screenshots/category_performance.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
+
+### Customer Lifetime Value
+![Customer Lifetime Value](screenshots/customer_lifetime_value.png)
 
 ---
 
