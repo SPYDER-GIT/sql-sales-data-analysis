@@ -466,17 +466,17 @@ FROM daily_sales;
 ### Revenue by Region
 ![Revenue by Region](screenshots/revenue_by_region.png)
 
-### Revenue by State
-![Revenue by State](screenshots/revenue_by_state.png)
-
 ### Category Performance
 ![Category Performance](screenshots/category_performance.png)
 
-### Monthly Revenue Trend
-![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
-
 ### Customer Lifetime Value
 ![Customer Lifetime Value](screenshots/customer_lifetime_value.png)
+
+### Top Cities by Revenue
+![Top Cities](screenshots/top_cities.png)
+
+### Window Function Analysis
+![Window Function Analysis](screenshots/window_function_analysis.png)
 
 ---
 
